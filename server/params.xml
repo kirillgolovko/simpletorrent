@@ -1,0 +1,5 @@
+<appParams>
+  <ServerPort>8080</ServerPort>
+  <SharedDirPath>server/testSharedDir/</SharedDirPath>
+  <maxClients>16</maxClients>
+</appParams>
