@@ -11,8 +11,7 @@
     <modules>
         <module>client</module>
         <module>server</module>
-        <module>fileexplorer</module>
-        <module>filesystems</module>
+        <module>commonintefaces</module>
     </modules>
     <dependencies>
         <dependency>

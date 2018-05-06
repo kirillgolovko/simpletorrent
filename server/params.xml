@@ -1,5 +1,7 @@
 <appParams>
   <ServerPort>8080</ServerPort>
-  <SharedDirPath>server/testSharedDir/</SharedDirPath>
+  <SharedDirPath>/home/kirill/Projects/simpletorrent/server/testDirectory</SharedDirPath>
   <maxClients>16</maxClients>
+  <clientKeepAlive>3</clientKeepAlive>
+  <blocksPerTransmission>64</blocksPerTransmission>
 </appParams>
